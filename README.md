@@ -2,8 +2,10 @@
 [![author](https://img.shields.io/badge/author-FernandoGuirraS-red.svg)](https://www.linkedin.com/in/fernandoguirra) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="datascience.png" >
+  <img src="banner_automação.png" >
 </p>
+
+---
 
 Esse repositório tem por objetivo guardar meus projetos em automação com a linguagem de programação **Python**. Aqui serão criadas diversas aplicações, com diferentes bibliotecas, em python com a finalidade de mostrar a possibilidade de criação com essa linguagem de programação.
 
